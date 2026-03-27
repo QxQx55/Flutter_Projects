@@ -1,0 +1,17 @@
+name: ethiogift
+description: A premium Ethiopian gift shop application in Flutter.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.1.0
+  provider: ^6.1.1
+  lucide_icons: ^0.257.0
+
+flutter:
+  uses-material-design: true
